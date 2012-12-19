@@ -21,4 +21,5 @@ echo "Hurry Done & worked out";
 echo "ABCD";
 echo "EFGH";
 echo "HIJK";
+echo "Merging the code";
 ?>
