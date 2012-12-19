@@ -8,8 +8,6 @@ echo "i have made changed for rachana.";
 echo "changes made by rajeev 1";
 echo "changes made by rajeev 2";
 echo "changes made by rajeev 3";
-echo "changes made by rajeev 4";
-echo "changes made by rajeev 5";
 
 echo "i have made changed for rachana 1.";
 echo "i have made changed for rachana 2";
