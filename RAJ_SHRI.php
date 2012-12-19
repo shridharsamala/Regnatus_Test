@@ -18,5 +18,4 @@ echo "I am trying to configure out the solution for multi-resource working on sa
 echo "Shridhar Testing";
 echo "Rachana Gone for lunch";
 echo "Hurry Done & worked out";
-echo "Test by rachana";
 ?>
