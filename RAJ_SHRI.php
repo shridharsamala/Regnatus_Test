@@ -25,9 +25,8 @@ echo "ABCDEFGHIJKLMNOPQRSTUVEXYZ";
 echo "I am rachana..doing webdesigning";
 echo "working on Regnatus-Collabgrid--rachana";
 
-
+echo "Poetry from play group";
 echo "I am a LION, ABBA DUBBA DUM";
 
-
-echo "Finally Checking all the process of commit the code";
+echo "Just trying to type - Finsh line";
 ?>
