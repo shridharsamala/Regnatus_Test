@@ -23,10 +23,10 @@ echo "Self tested on rachana system & testing on my system";
 echo "abcdefghijklmnopqrstuvwxyz";
 echo "12345678910111213141516";
 echo "bfbfbfbf123123123123wejejjkfd";
+
 echo "ABCDEFGHIJKLMNOPQRSTUVEXYZ";
+
 echo "I am rachana..doing webdesigning";
 
-echo "working on Regnatus-Collabgrid";
-
-echo "I am project Manager for Regnatus-Collabgrid";
+echo "working on Regnatus-Collabgrid--Shridhar";
 ?>
