@@ -25,3 +25,5 @@ echo "Merging the code";
 
 
 echo "Testing by Shridhar on 20/12/2012";
+
+echo "Self tested on rachana system & testing on my system";
