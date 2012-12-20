@@ -24,9 +24,7 @@ echo "bfbfbfbf123123123123wejejjkfd";
 echo "ABCDEFGHIJKLMNOPQRSTUVEXYZ";
 echo "I am rachana..doing webdesigning";
 echo "working on Regnatus-Collabgrid--rachana";
-
 echo "Poetry from play group";
 echo "I am a LION, ABBA DUBBA DUM";
-
 echo "Just trying to type - Finsh line";
 ?>
