@@ -19,7 +19,6 @@ echo "Shridhar Testing";
 echo "Rachana Gone for lunch";
 echo "Hurry Done & worked out";
 echo "Merging the code";
-echo "change line text";
 echo "test rachana";
 echo "Testing by Shridhar on 20/12/2012";
 
