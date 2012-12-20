@@ -18,11 +18,10 @@ echo "I am trying to configure out the solution for multi-resource working on sa
 echo "Shridhar Testing";
 echo "Rachana Gone for lunch";
 echo "Hurry Done & worked out";
-echo "ABCD";
-echo "EFGH";
-echo "HIJK";
 echo "Merging the code";
 echo "test rachana";
 echo "Testing by Shridhar on 20/12/2012";
 
 echo "Self tested on rachana system & testing on my system";
+
+echo "abcdefghijklmnopqrstuvwxyz";
