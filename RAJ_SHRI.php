@@ -26,4 +26,8 @@ echo "abcdefghijklmnopqrstuvwxyz";
 echo "12345678910111213141516";
 
 
+
+echo "ABCDEFGHIJKLMNOPQRSTUVEXYZ";
+
+
 ?>
