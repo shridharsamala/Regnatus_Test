@@ -25,5 +25,5 @@ echo "Merging the code";
 edho "change line text";
 echo "test rachana";
 echo "Testing by Shridhar on 20/12/2012";
-echo "rachana test";
-?>
+
+echo "Self tested on rachana system & testing on my system";
